@@ -6,6 +6,6 @@ This problem of classification between rock & mine (binary classification) is "b
 
 This video guided me through the step: https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6
 
-Diffculty level: easy 
+Diffculty level: easy \n
 Recommend level (0-5): 5
 
